@@ -179,4 +179,3 @@ http://<public-ip>:5080/training
 
 ---
 
-Would you like me to also **add some badges (Python version, AWS, Docker, CI/CD status, MongoDB, etc.) at the top** to make the README even more visually attractive for recruiters?
